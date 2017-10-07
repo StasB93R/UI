@@ -16,7 +16,6 @@
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.App.xaml.g.cs
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.dll
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.pdb
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.Stas.SpecificItem.xaml.g.cs
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.Login.xaml.g.cs
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.Recent.xaml.g.cs
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.UIPage.xaml.g.cs
@@ -26,3 +25,4 @@
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.MainPage.xaml.g.cs
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.AddItem.xaml.g.cs
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.MyList.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.SpecificItem.xaml.g.cs

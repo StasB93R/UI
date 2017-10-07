@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{8D0D25A0-0BF7-454B-A980-DE9AD132EE73}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Settings.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpecificItem.xaml.cs">
     <Files>
       <File FileName="MainPage.xaml" Line="15" Column="1" />
-      <File FileName="Settings.xaml.cs" Line="11" Column="10" />
-      <File FileName="Settings.xaml" Line="34" Column="1" />
-      <File FileName="Login.xaml.cs" Line="17" Column="13" />
+      <File FileName="App.xaml.cs" Line="10" Column="13" />
+      <File FileName="SpecificItem.xaml" Line="33" Column="1" />
+      <File FileName="SpecificItem.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6A2556DC-57CC-40D4-A9B2-11FCA79226CA" />

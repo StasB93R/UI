@@ -10,7 +10,7 @@
          <Image x:Name="product" Aspect="AspectFit" /> 
         </StackLayout>
       
-        <StackLayout VerticalOptions = "StartAndExpand">
+        <StackLayout VerticalOptions = "StartAndExpand" Padding="50, 20, 0, 0">
             <Label Text="Nike"/>
             <Label Text="50$"/>
             <Label Text="Category: Clothing"/>
