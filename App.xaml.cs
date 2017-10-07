@@ -9,6 +9,9 @@ namespace UI
             InitializeComponent();
 
             MainPage = new Login();
+
+
+
         }
 
         protected override void OnStart()

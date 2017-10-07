@@ -56,3 +56,11 @@
 /Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.0/actool/_PartialAppManifest.items
 /Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.0/actool/_BundleResourceWithLogicalName.items
 /Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.0/optimized/
+/Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/bin/iPhoneSimulator/Debug/UI.dll.mdb
+/Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/bin/iPhoneSimulator/Debug/SQLite-net.pdb
+/Users/stanislavberezin/Desktop/IAB330/app/UI/iOS/bin/iPhoneSimulator/Debug/SQLite-net.xml
