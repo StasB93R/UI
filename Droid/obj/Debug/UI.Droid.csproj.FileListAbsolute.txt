@@ -108,3 +108,11 @@ C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\UI.dll.mdb
 C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\UI.Droid.dll.mdb
 C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\obj\Debug\android\assets\UI.dll.mdb
 C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\obj\Debug\android\assets\UI.Droid.dll.mdb
+C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\SQLite-net.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\SQLite-net.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330\UI\Droid\bin\Debug\SQLite-net.xml
