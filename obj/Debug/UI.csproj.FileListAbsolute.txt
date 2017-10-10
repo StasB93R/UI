@@ -57,3 +57,34 @@ C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.pdb
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLitePCLRaw.core.dll
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLite-net.pdb
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLite-net.xml
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\UI.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\UI.pdb
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\SQLite-net.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\SQLite-net.pdb
+C:\Users\Michael de Closey\Documents\GitHub\UI\bin\Debug\SQLite-net.xml
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.dll
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.pdb
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.Login.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.Recent.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.UIPage.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.Settings.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.Search.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.Registration.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.App.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.MainPage.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.AddItem.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.MyList.xaml.g.cs
+C:\Users\Michael de Closey\Documents\GitHub\UI\obj\Debug\UI.Views.SpecificItem.xaml.g.cs

@@ -11,16 +11,12 @@
 namespace UI {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/stanislavberezin/Desktop/IAB330/app/UI/Recent.xaml")]
-    public partial class Recent : global::Xamarin.Forms.ContentPage {
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.ListView listRecent;
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Michael de Closey\\Documents\\GitHub\\UI\\Views\\UIPage.xaml")]
+    public partial class UIPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Recent));
-            listRecent = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "listRecent");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(UIPage));
         }
     }
 }

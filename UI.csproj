@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -30,76 +30,76 @@
   <ItemGroup>
     <EmbeddedResource Include="images\shopping.png" />
     <EmbeddedResource Include="images\upload" />
-    <EmbeddedResource Include="Login.xaml">
+    <EmbeddedResource Include="Views\Login.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="Recent.xaml">
+    <EmbeddedResource Include="Views\Recent.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="UIPage.xaml" />
-    <EmbeddedResource Include="Settings.xaml">
+    <EmbeddedResource Include="Views\UIPage.xaml" />
+    <EmbeddedResource Include="Views\Settings.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="Search.xaml">
+    <EmbeddedResource Include="Views\Search.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="Registration.xaml">
+    <EmbeddedResource Include="Views\Registration.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="App.xaml" />
-    <EmbeddedResource Include="MainPage.xaml">
+    <EmbeddedResource Include="Views\App.xaml" />
+    <EmbeddedResource Include="Views\MainPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="AddItem.xaml">
+    <EmbeddedResource Include="Views\AddItem.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="MyList.xaml">
+    <EmbeddedResource Include="Views\MyList.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Include="images\Recent.png" />
     <EmbeddedResource Include="images\My.png" />
     <EmbeddedResource Include="images\Add.png" />
     <EmbeddedResource Include="images\Search.png" />
-    <EmbeddedResource Include="SpecificItem.xaml">
+    <EmbeddedResource Include="Views\SpecificItem.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Include="images\red.jpeg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Login.xaml.cs">
+    <Compile Include="Views\Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Recent.xaml.cs">
+    <Compile Include="Views\Recent.xaml.cs">
       <DependentUpon>Recent.xaml</DependentUpon>
     </Compile>
-    <Compile Include="UIPage.xaml.cs">
+    <Compile Include="Views\UIPage.xaml.cs">
       <DependentUpon>UIPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="RecentSearchModel.cs" />
-    <Compile Include="Settings.xaml.cs">
+    <Compile Include="Models\RecentSearchModel.cs" />
+    <Compile Include="Views\Settings.xaml.cs">
       <DependentUpon>Settings.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Search.xaml.cs">
+    <Compile Include="Views\Search.xaml.cs">
       <DependentUpon>Search.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Registration.xaml.cs">
+    <Compile Include="Views\Registration.xaml.cs">
       <DependentUpon>Registration.xaml</DependentUpon>
     </Compile>
-    <Compile Include="App.xaml.cs">
+    <Compile Include="Views\App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainPage.xaml.cs">
+    <Compile Include="Views\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="AddItem.xaml.cs">
+    <Compile Include="Views\AddItem.xaml.cs">
       <DependentUpon>AddItem.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MyList.xaml.cs">
+    <Compile Include="Views\MyList.xaml.cs">
       <DependentUpon>MyList.xaml</DependentUpon>
     </Compile>
-    <Compile Include="modelMyList.cs" />
-    <Compile Include="SpecificItem.xaml.cs">
+    <Compile Include="Models\modelMyList.cs" />
+    <Compile Include="Views\SpecificItem.xaml.cs">
       <DependentUpon>SpecificItem.xaml</DependentUpon>
     </Compile>
     <Compile Include="Persistance\ISQLiteDb.cs" />
@@ -131,8 +131,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\" />
-    <Folder Include="Persistance\" />
+    <Folder Include="ModelViews\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="packages\Xamarin.Forms.2.3.4.270\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets" Condition="Exists('packages\Xamarin.Forms.2.3.4.270\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets')" />
