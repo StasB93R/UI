@@ -4,3 +4,7 @@
 *.ide
 *.xml
 *.cache
+*.mdb
+*.pdb
+*.apk
+*.dll
