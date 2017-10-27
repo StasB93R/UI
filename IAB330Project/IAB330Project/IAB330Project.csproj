@@ -51,6 +51,9 @@
     </Compile>
     <Compile Include="Models\Item.cs" />
     <Compile Include="Models\RecentSearch.cs" />
+    <Compile Include="MyList.xaml.cs">
+      <DependentUpon>MyList.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Recent.xaml.cs">
       <DependentUpon>Recent.xaml</DependentUpon>
@@ -154,6 +157,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Login.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MyList.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

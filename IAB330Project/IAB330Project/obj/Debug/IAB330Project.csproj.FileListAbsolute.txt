@@ -46,3 +46,4 @@ C:\Users\Michael de Closey\Documents\GitHub\UI\IAB330Project\IAB330Project\bin\D
 C:\Users\Michael de Closey\Documents\GitHub\UI\IAB330Project\IAB330Project\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\Michael de Closey\Documents\GitHub\UI\IAB330Project\IAB330Project\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Michael de Closey\Documents\GitHub\UI\IAB330Project\IAB330Project\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Michael de Closey\Documents\GitHub\UI\IAB330Project\IAB330Project\obj\Debug\IAB330Project.MyList.xaml.g.cs

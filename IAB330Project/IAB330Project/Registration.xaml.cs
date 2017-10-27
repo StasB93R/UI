@@ -32,7 +32,7 @@ namespace IAB330Project
 
 
             //logo
-            image.Source = ImageSource.FromResource("UI.images.shopping.png");
+            image.Source = ImageSource.FromResource("IAB330Project.images.shopping.png");
 
             var tapGestureRecognizer = new TapGestureRecognizer();
             tapGestureRecognizer.Tapped += (s, e) =>
