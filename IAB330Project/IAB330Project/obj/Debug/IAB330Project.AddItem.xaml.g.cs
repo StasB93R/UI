@@ -11,8 +11,8 @@
 namespace IAB330Project {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Michael de Closey\\Source\\Repos\\IAB330Project\\IAB330Project\\IAB330Project" +
-        "\\AddItem.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Michael de Closey\\Documents\\GitHub\\UI\\IAB330Project\\IAB330Project\\AddIte" +
+        "m.xaml")]
     public partial class AddItem : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

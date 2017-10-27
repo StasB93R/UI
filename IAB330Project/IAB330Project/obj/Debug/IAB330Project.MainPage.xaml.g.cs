@@ -11,8 +11,8 @@
 namespace IAB330Project {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Michael de Closey\\Source\\Repos\\IAB330Project\\IAB330Project\\IAB330Project" +
-        "\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Michael de Closey\\Documents\\GitHub\\UI\\IAB330Project\\IAB330Project\\MainPa" +
+        "ge.xaml")]
     public partial class MainPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

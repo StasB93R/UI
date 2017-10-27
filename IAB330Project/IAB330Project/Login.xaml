@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="IABProject.Login">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="IAB330Project.Login">
     <StackLayout VerticalOptions = "Center" Spacing ="10" Padding="30">
         <Image x:Name="image" Aspect="AspectFit" HorizontalOptions="Center"
         VerticalOptions="Center"/>
 
 
         <StackLayout Orientation="Horizontal">
-            <Label Text="Username:"/>
+            <Label Text="Username: "/>
             <Entry x:Name = "username" Placeholder="Enter your username..." HorizontalOptions="FillAndExpand"/>
         </StackLayout>
 
@@ -21,7 +21,7 @@
             <Label x:Name= "goRegister" Text="Register" TextColor="Aqua"/>
         </StackLayout>
 
-        <Button Text="Log in" Clicked="logUser"/>
+        <Button x:Name ="LogIn" Text="Log in" Clicked="logUser"/>
 
 
     </StackLayout>
