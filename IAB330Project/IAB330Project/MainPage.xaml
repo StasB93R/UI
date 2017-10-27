@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage 
+    xmlns:local = "clr-namespace:UI"
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="IAB330Project.MainPage">
+
+    <local:Search Title="Search" />
+    <local:Recent Title="Recent" />
+    <local:MyList Title="My list" />
+    <local:AddItem Title="Add item" />
+    <local:Settings Title = "Settings" />
+
+</TabbedPage>
