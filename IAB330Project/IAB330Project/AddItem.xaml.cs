@@ -32,26 +32,26 @@ namespace IAB330Project
         */
         public AddItem()
         {
-            db = new Database();
-            SubmitCommand = new Command(Submit);
-           // _connection = DependencyService.Get<ISQLiteDb>().GetConnection();
             InitializeComponent();
-            //image, should be chancged after
-            upload.Source = ImageSource.FromResource("UI.images.upload");
-        }
-
-        public void Submit()
-        {
-            db.InsertItem(new Item()
+            db = new Database();
+            SubmitCommand = new Command(() =>
             {
-                Name = productName.Text,
-                Price = productPrice.Text,
-                Category = productCategory.Text,
-                Location = productLocation.Text
-            });
+                db.InsertItem(new Item()
+                {
+                    Name = productName.Text,
+                    Price = productPrice.Text,
+                    Category = productCategory.Text,
+                    Location = productLocation.Text,
+                    //ImageUrl = "IAB330Project.images.upload"
+                });
 
-            productName.Text = "Submitted";
+                productName.Text = "Submitted";
+            });
+            
+            //image, should be chancged after
+            
         }
+
 
     }
 }

@@ -7,8 +7,8 @@
 
     <local:Search Title="Search" />
     <local:Recent Title="Recent" />
-    <local:MyList Title="My list" />
-    <local:AddItem Title="Add item" />
+    <local:MyList Title="My List" />
+    <local:AddItem Title="Add Item" />
     <local:Settings Title = "Settings" />
 
 </TabbedPage>
