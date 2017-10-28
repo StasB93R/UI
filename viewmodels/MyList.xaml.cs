@@ -12,10 +12,13 @@ namespace UI
 		[PrimaryKey, AutoIncrement]
 		public int Id { get; set; }
 
+        //DONT KNOW HOW TO DO THIS
+        public string ImageUrl { get; set; }
+        //NOT WORKING IMAGE
+
 		[MaxLength(255)]
 		public string Name { get; set; }
-		[MaxLength(255)]
-		public string ImageUrl { get; set; }
+
 		[MaxLength(255)]
 		public string Price { get; set; }
 

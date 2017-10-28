@@ -1,9 +1,20 @@
 ﻿using Xamarin.Forms;
+using System.IO;
+using System.Threading.Tasks;
+
+
+
 
 namespace UI
 {
     public partial class App : Application
     {
+        //INTERFACE FOR GETTING IMAGES FROM GALLERY
+        public interface IPicturePicker
+        {
+            Task<Stream> GetImageStreamAsync();
+        }
+
         public App()
         {
             InitializeComponent();

@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using SQLite;
-
+using System.IO;
+using System.Threading.Tasks;
 
 using Xamarin.Forms;
+using static UI.App;
 
 namespace UI
 {
@@ -11,6 +13,33 @@ namespace UI
     public partial class AddItem : ContentPage
     {
         private SQLiteAsyncConnection _connection;
+
+
+        //UPLOADING IMAGE FROM GALLERY
+        async void upload_Image(object sender, System.EventArgs e)
+        {
+
+                
+                
+
+                Stream stream = await DependencyService.Get<IPicturePicker>().GetImageStreamAsync();
+
+                if (stream != null)
+                {
+                    Image image = new Image
+                    {
+                        Source = ImageSource.FromStream(() => stream),
+                       
+                    };
+
+ 
+                }
+             
+            
+
+        }
+      
+
 
         //upload button with all variables that are needed for the back end
         async void uploadItem(object sender, System.EventArgs e)
@@ -26,6 +55,9 @@ namespace UI
 
 
         }
+
+       
+
 
         public AddItem()
         {

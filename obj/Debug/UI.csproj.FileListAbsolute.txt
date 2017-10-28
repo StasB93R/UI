@@ -6,60 +6,58 @@
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/Xamarin.Forms.Core.xml
-/Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/Xamarin.Forms.Platform.pdb
-/Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/Xamarin.Forms.Platform.dll.mdb
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/Xamarin.Forms.Xaml.xml
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.csprojResolveAssemblyReference.cache
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.csproj.CoreCompileInputs.cache
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.App.xaml.g.cs
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.dll
 /Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.pdb
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.Login.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.Recent.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.UIPage.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.Settings.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.Search.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.Registration.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.MainPage.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.AddItem.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.MyList.xaml.g.cs
-/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.SpecificItem.xaml.g.cs
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLite-net.dll
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLitePCLRaw.batteries_green.dll
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLitePCLRaw.batteries_v2.dll
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLitePCLRaw.core.dll
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLite-net.pdb
 /Users/stanislavberezin/Desktop/IAB330/app/UI/bin/Debug/SQLite-net.xml
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\UI.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\UI.pdb
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\SQLite-net.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\SQLitePCLRaw.batteries_green.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\SQLitePCLRaw.batteries_v2.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\SQLitePCLRaw.core.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\Xamarin.Forms.Core.pdb
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\Xamarin.Forms.Platform.pdb
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\SQLite-net.pdb
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\bin\Debug\SQLite-net.xml
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.Login.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.Recent.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.UIPage.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.Settings.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.Search.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.Registration.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.App.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.MainPage.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.AddItem.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.MyList.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.views.SpecificItem.xaml.g.cs
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.dll
-C:\Users\KIARA\Documents\- Uni\IAB330\UI\obj\Debug\UI.pdb
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/UI.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/UI.pdb
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/SQLite-net.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/SQLitePCLRaw.batteries_green.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/SQLitePCLRaw.core.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/SQLite-net.pdb
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/bin/Debug/SQLite-net.xml
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.csprojResolveAssemblyReference.cache
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.csproj.CoreCompileInputs.cache
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.Login.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.Recent.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.UIPage.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.Settings.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.Search.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.Registration.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.App.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.MainPage.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.AddItem.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.MyList.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.views.SpecificItem.xaml.g.cs
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.dll
+C:/Users/KIARA/Documents/- Uni/IAB330/UI/obj/Debug/UI.pdb
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.Login.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.Recent.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.UIPage.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.Settings.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.Search.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.Registration.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.App.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.MainPage.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.AddItem.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.MyList.xaml.g.cs
+/Users/stanislavberezin/Desktop/IAB330/app/UI/obj/Debug/UI.views.SpecificItem.xaml.g.cs
