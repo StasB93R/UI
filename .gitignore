@@ -1,0 +1,7 @@
+.vs/*
+packages/*
+
+IAB330Project/IAB330Project/bin/*
+IAB330Project/IAB330Project/obj/*
+IAB330Project/IAB330Project.Android/*
+IAB330Project/IAB330Project.iOS/*
