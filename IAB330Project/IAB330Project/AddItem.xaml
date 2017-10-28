@@ -1,25 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="IAB330Project.AddItem">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local ="clr-namespace:IAB330Project" x:Class="IAB330Project.AddItem">
     <StackLayout VerticalOptions ="Start" Spacing ="10" Padding="25, 50, 25, 25">
         <StackLayout Orientation="Horizontal">
-            <Label Text="Name:"/>
-            <Entry x:Name = "productName" AutomationId="ProductName" HorizontalOptions="FillAndExpand" Text="{Binding productName}"/>
+            <Entry x:Name = "NameEntry" AutomationId="NameEntry" HorizontalOptions="FillAndExpand" Text="{Binding Name}"/>
         </StackLayout>
 
         <StackLayout Orientation="Horizontal">
-            <Label Text = "Price"/>
-            <Entry x:Name = "productPrice" AutomationId="Price" HorizontalOptions="FillAndExpand" Text="{Binding productPrice}"/>
+            <Entry x:Name = "PriceEntry" AutomationId="PriceEntry" HorizontalOptions="FillAndExpand" Text="{Binding Price}"/>
         </StackLayout>
 
 
         <StackLayout Orientation="Horizontal">
-            <Label Text = "Location"/>
-            <Entry x:Name = "productLocation" AutomationId="Location" HorizontalOptions="FillAndExpand" Text="{Binding productLocation}"/>
+            <Entry x:Name = "LocationEntry" AutomationId="LocationEntry" HorizontalOptions="FillAndExpand" Text="{Binding Location}"/>
         </StackLayout>
 
         <StackLayout Orientation="Horizontal">
-            <Label Text = "Category"/>
-            <Entry x:Name = "productCategory" AutomationId="Category" HorizontalOptions="FillAndExpand" Text="{Binding productCategory}"/>
+            <Entry x:Name = "CategoryEntry" AutomationId="CategoryEntry" HorizontalOptions="FillAndExpand" Text="{Binding Category}"/>
         </StackLayout>
 
 
@@ -30,7 +26,7 @@
         </StackLayout>
 
         <StackLayout VerticalOptions = "Center" HorizontalOptions = "Center" Padding="0,50,0,0">
-            <Button x:Name = "submitButton" Text="Upload item" BorderColor="Aqua" AutomationId="submitButton" Command="{Binding SubmitCommand} " />
+            <Button x:Name = "SubmitButton" Text="Upload item" BorderColor="Aqua" AutomationId="SubmitButton" Clicked="SubmitButton_Clicked" />
         </StackLayout>
 
 

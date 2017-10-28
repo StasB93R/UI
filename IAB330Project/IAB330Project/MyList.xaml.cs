@@ -28,6 +28,7 @@ namespace IAB330Project
         public MyList()
         {
             InitializeComponent();
+           // BindingContext = new MyList();
             db = new Database();
             ListItems = new ObservableCollection<Item>(db.GetAllListItems());
         }

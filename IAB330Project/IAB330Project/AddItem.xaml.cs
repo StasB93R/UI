@@ -34,24 +34,31 @@ namespace IAB330Project
         {
             InitializeComponent();
             db = new Database();
-            SubmitCommand = new Command(() =>
+          /*  SubmitCommand = new Command(() =>
             {
-                db.InsertItem(new Item()
-                {
-                    Name = productName.Text,
-                    Price = productPrice.Text,
-                    Category = productCategory.Text,
-                    Location = productLocation.Text,
-                    //ImageUrl = "IAB330Project.images.upload"
-                });
+                
 
-                productName.Text = "Submitted";
+                NameEntry.Text = "Submitted";
             });
-            
+            */
             //image, should be chancged after
             
         }
 
-
+        private void SubmitButton_Clicked(object sender, EventArgs e)
+        {
+            db.InsertItem(new Item()
+            {
+                Name = NameEntry.Text,
+                Price = PriceEntry.Text,
+                Category = CategoryEntry.Text,
+                Location = LocationEntry.Text,
+                ImageUrl = "IAB330Project.images.upload"
+            });
+            NameEntry.Text = "";
+            PriceEntry.Text = "";
+            CategoryEntry.Text = "";
+            LocationEntry.Text = "";
+        }
     }
 }
